@@ -1,0 +1,29 @@
+/* :root {
+  
+  --color-text: white;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  
+  --font-roboto: "Roboto";
+}*/
+
+:root {
+  /*Colour*/
+  --color-text: #feece1;
+  /* --color-text-dark: #fe995c; */
+  /* --color-text: #9e6f67; */
+  --color-text-dark: #3a1401;
+  /* --color-gradient: rgba(229, 89, 50, 0.7); */
+  --color-gradient: #ff8f63;
+  --color-primary: #febe98;
+  --color-secondary: #fed5bc;
+  --color-bg-dark: rgba(159, 79, 79, 0.394);
+  /* --color-bg: #fe995c; */
+  --color-bg: #ffbe98;
+  --color-btn: #f6c53fb9;
+  /* Fonts*/
+  --font-roboto: "Roboto";
+}

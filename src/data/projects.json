@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Laravel Dc Comics",
+    "imageSrc": "projects/vitr comics.png",
+    "description": "This is a project i made to learn the latest languages by building an app.",
+    "skills": [
+      "Vue.js",
+      "JavaSript",
+      "Css",
+      "Bootstrap",
+      "API",
+      "Laravel",
+      "Php",
+      "Html"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Valentina-De-Mite/laravel-dc-comics"
+  },
+  {
+    "title": "Spotify",
+    "imageSrc": "projects/spotify ok.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "Css", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Valentina-De-Mite/html-css-spotifyweb"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/whats up ok.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Valentina-De-Mite/vue-boolzapp"
+  }
+]

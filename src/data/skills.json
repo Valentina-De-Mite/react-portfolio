@@ -1,0 +1,66 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "technologies/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "technologies/css.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "technologies/js.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "technologies/java.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "technologies/php.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "technologies/c.png"
+  },
+  {
+    "title": "VUE",
+    "imageSrc": "technologies/vue.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "technologies/react.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "technologies/laravel.png"
+  },
+  {
+    "title": "DOTNET",
+    "imageSrc": "technologies/dotnet.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "technologies/bootstrap.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "technologies/sql.png"
+  },
+  {
+    "title": "VSC",
+    "imageSrc": "technologies/vscode.png"
+  },
+  {
+    "title": "VS",
+    "imageSrc": "technologies/vs.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "technologies/github.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "technologies/figma.png"
+  }
+]
