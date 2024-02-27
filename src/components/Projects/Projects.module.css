@@ -5,6 +5,8 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+
+  padding: 68px;
 }
 
 .title {
@@ -13,6 +15,7 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
   margin-bottom: 60px;
+  margin-left: 3%;
   color: var(--color-text-dark);
 }
 

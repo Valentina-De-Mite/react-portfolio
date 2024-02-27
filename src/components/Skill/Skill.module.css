@@ -5,6 +5,7 @@
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
+  padding: 68px;
 }
 
 li {
@@ -16,6 +17,7 @@ li {
   font-weight: 700;
   letter-spacing: 1.75px;
   margin-bottom: 50px;
+
   text-transform: uppercase;
 }
 
@@ -71,6 +73,10 @@ li {
     width: 100%;
     flex-direction: row;
     justify-content: center;
+  }
+
+  .title {
+    text-align: center;
   }
 
   /* .experiences {

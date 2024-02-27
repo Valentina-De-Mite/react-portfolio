@@ -2,9 +2,11 @@ import React, { useState } from "react";
 
 import style from "./Navbar.module.css";
 import { getImageUrl } from "../../utils.js";
+import { Link, animateScroll as scrollSpy } from "react-scroll";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <nav className={style.navbar}>
       <a className={style.title} href="/">
@@ -26,16 +28,29 @@ export const Navbar = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="about">About</a>
+            <Link activeClass="active" smooth spy to="about">
+              About
+            </Link>
           </li>
           <li>
-            <a href="experience">Experience</a>
+            <Link activeClass="active" smooth spy to="skill">
+              Skills
+            </Link>
           </li>
           <li>
-            <a href="projects">Projects</a>
+            <Link activeClass="active" smooth spy to="experience">
+              Experiences
+            </Link>
           </li>
           <li>
-            <a href="contacts">Contacts</a>
+            <Link activeClass="active" smooth spy to="projects">
+              Projects
+            </Link>
+          </li>
+          <li>
+            <Link activeClass="active" smooth spy to="contact">
+              Contacts
+            </Link>
           </li>
         </ul>
       </div>

@@ -58,7 +58,10 @@
     flex-direction: column;
     align-items: center;
   }
-
+  li a {
+    overflow-wrap: break-word;
+    max-width: 80%;
+  }
   .links {
     align-items: center;
   }
@@ -66,10 +69,5 @@
   li {
     overflow-wrap: break-word;
     max-width: 100%;
-  }
-
-  li a {
-    overflow-wrap: break-word;
-    max-width: 80%;
   }
 }
